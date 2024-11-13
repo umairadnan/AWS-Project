@@ -1,3 +1,4 @@
+# Terraform To Deploy AWS Lambda Function With S3 Trigger.
 This project aims to guide you through building a real-world DevOps automation project using Python, AWS Lambda, and Terraform. 
 Whether you’re interested in learning or creating innovative DevOps projects, this tutorial is for you.
 
