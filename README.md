@@ -5,4 +5,5 @@ Implementation:
 In this project, Terraform will be used to provision an AWS Lambda function, with Python as the Lambda runtime. 
 The Python script will monitor a specified path within an S3 bucket, automatically moving newly uploaded files into organized folders based on year, month, and date. 
 An S3 event notification will trigger the Lambda function whenever new files are uploaded to the designated path.
-#**Check out this blog for step by step implmentation:** https://medium.com/@umairshaficse/project-8-devops-af98b338838a
+# Check out this blog for step by step implmentation: 
+https://medium.com/@umairshaficse/project-8-devops-af98b338838a
